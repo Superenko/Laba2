@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Labaa2\obj\Debug\net8.0\Labaa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Labaa2\obj\Debug\net8.0\Labaa2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Labaa2\obj\Debug\net8.0\Labaa2.AssemblyInfo.cs
+C:\Users\User\source\repos\Labaa2\obj\Debug\net8.0\Labaa2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Labaa2\bin\Debug\net8.0\Labaa2.exe
+C:\Users\User\source\repos\Labaa2\bin\Debug\net8.0\Labaa2.deps.json
+C:\Users\User\source\repos\Labaa2\bin\Debug\net8.0\Labaa2.runtimeconfig.json
+C:\Users\User\source\repos\Labaa2\bin\Debug\net8.0\Labaa2.dll
+C:\Users\User\source\repos\Labaa2\bin\Debug\net8.0\Labaa2.pdb
+C:\Users\User\source\repos\Labaa2\obj\Debug\net8.0\Labaa2.dll
+C:\Users\User\source\repos\Labaa2\obj\Debug\net8.0\refint\Labaa2.dll
+C:\Users\User\source\repos\Labaa2\obj\Debug\net8.0\Labaa2.pdb
+C:\Users\User\source\repos\Labaa2\obj\Debug\net8.0\Labaa2.genruntimeconfig.cache
+C:\Users\User\source\repos\Labaa2\obj\Debug\net8.0\ref\Labaa2.dll
